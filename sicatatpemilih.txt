@@ -1,0 +1,11 @@
+{
+  "keys": ["username", "password"] ,
+  "values": [
+    ["superadmin", "123456"],
+    ["banyumas", "123456"],
+    ["cilacap", "123456"],
+    ["heraya", "fitra"],
+    ["ray", "dragneel"],
+    ["random", "123456"],
+  ]
+}
